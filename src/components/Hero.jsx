@@ -4,9 +4,8 @@ import Typed from "typed.js";
 // Replace with your own punchline/tagline if desired
 const TAGLINES = [
   "Full Stack Web Developer.",
-  "Generative AI Engineer.",
+  "Generative AI Enthusiast.",
   "Software Developer.",
-  "IOT Enthusiast.",
   "Final Year ECE Undergrad.",
   "Problem Solver."
 ];
@@ -100,7 +99,7 @@ export default function Hero() {
     marginBottom: "0.8rem",
     color: "#f4eeee",
     lineHeight: "1.2",                        // tighter spacing prevents breaking
-    wordBreak: "keep-all",                    // prevent splitting "Ketan Bajpai"
+    wordBreak: "keep-all",                    // prevent splitting "Mridul Pandey"
     whiteSpace: "nowrap",                     // keep on one line on mobile
   }}
 >
@@ -112,7 +111,7 @@ export default function Hero() {
             }}
             onClick={handleScrollToAboutMe}
           >
-            Ketan Bajpai
+            Mridul Pandey
           </span>
         </h1>
         <p

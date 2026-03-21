@@ -3,12 +3,12 @@ export default function Footer() {
    <footer>
       <p>
         Designed & Developed by{" "}
-        <span className="half-text">Ketan</span>
+        <span className="half-text">Mridul</span>
       </p>
 
       <p className="text-sm">
         © {new Date().getFullYear()}{" "}
-        <span className="half-text">BuiltByKetan</span>. All rights reserved.
+        <span className="half-text">BuiltByMridul</span>. All rights reserved.
       </p>
     </footer>
   );

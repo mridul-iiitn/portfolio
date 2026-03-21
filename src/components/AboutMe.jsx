@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import myPicture from "./../assets/image.png";
 import { FaCode, FaLaptopCode, FaBook, FaPaintBrush } from "react-icons/fa";
-import ResumePDF from "./../assets/KetanResume2026.pdf";
+import ResumePDF from "./../assets/Mridul_Resume.pdf";
 
 export default function AboutMe() {
   const aboutMeRef = useRef(null);
@@ -24,9 +24,8 @@ export default function AboutMe() {
               <p>
   I'm a passionate final-year{" "}
   <span className="half-text">Electronics and Communication Engineering</span>{" "}
-  student at <span className="half-text">IIIT Nagpur</span>, specializing in{" "}
-  <span className="half-text">Internet of Things (IoT)</span> with a CGPA of{" "}
-  <span className="half-text">8.15 / 10</span>.
+  student at <span className="half-text">IIIT(Indian Institute of Information Technology) Nagpur</span>, with a CGPA of{" "}
+  <span className="half-text">8.33 / 10</span>.
 </p>
 
             </div>
@@ -72,9 +71,7 @@ export default function AboutMe() {
               </div>
               <p>
   Outside the tech world, I enjoy <span className="half-text">outdoor activities</span>.  
-  I also like engaging in light <span className="half-text">online social interactions</span> for fun,  
-  and I unwind through <span className="half-text">driving</span> and{" "}
-  <span className="half-text">listening to music</span>.
+  I play cricket , basketball and I unwind through <span className="half-text">playing guitar and singing</span>.
 </p>
 
             </div>
@@ -129,7 +126,7 @@ export default function AboutMe() {
                       d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
                     />
                   </svg>
-                  <p>Kanpur, Uttar Pradesh</p>
+                  <p>Noida, Uttar Pradesh</p>
                 </div>
               </li>
               <li>
@@ -148,7 +145,7 @@ export default function AboutMe() {
                       d="m7.875 14.25 1.214 1.942a2.25 2.25 0 0 0 1.908 1.058h2.006c.776 0 1.497-.4 1.908-1.058l1.214-1.942M2.41 9h4.636a2.25 2.25 0 0 1 1.872 1.002l.164.246a2.25 2.25 0 0 0 1.872 1.002h2.092a2.25 2.25 0 0 0 1.872-1.002l.164-.246A2.25 2.25 0 0 1 16.954 9h4.636M2.41 9a2.25 2.25 0 0 0-.16.832V12a2.25 2.25 0 0 0 2.25 2.25h15A2.25 2.25 0 0 0 21.75 12V9.832c0-.287-.055-.57-.16-.832M2.41 9a2.25 2.25 0 0 1 .382-.632l3.285-3.832a2.25 2.25 0 0 1 1.708-.786h8.43c.657 0 1.281.287 1.709.786l3.284 3.832c.163.19.291.404.382.632M4.5 20.25h15A2.25 2.25 0 0 0 21.75 18v-2.625c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125V18a2.25 2.25 0 0 0 2.25 2.25Z"
                     />
                   </svg>
-                  <p>ketanbajpai980@gmail.com</p>
+                  <p>mridulpandey619@gmail.com</p>
                 </div>
               </li>
             </ul>

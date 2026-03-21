@@ -15,7 +15,7 @@ export default function Experience() {
         <div className="experience-card">
           <h3>SDE Intern (Backend) — Tripfactory.com</h3>
           <p className="experience-subtitle">
-            Noida &nbsp;|&nbsp; December 2025 – Present
+            Noida &nbsp;|&nbsp; January 2025 – Present
           </p>
 
           <ul>
@@ -37,47 +37,45 @@ export default function Experience() {
           </ul>
         </div>
 
-        {/* iKites.ai Internship */}
+        {/* ZOHO Internship */}
         <div className="experience-card">
-          <h3>SDE / GenAI Intern — iKites.ai (IIT Delhi)</h3>
+          <h3>Project Trainee Intern — ZOHO Corporation</h3>
           <p className="experience-subtitle">
-            New Delhi &nbsp;|&nbsp; May 2025 – Oct 2025
+            Nagpur, India &nbsp;|&nbsp; July 2025 – Dec 2025
           </p>
 
           <ul>
             <li>
-              Led the development of a <strong>multimodal ophthalmology analytics dashboard</strong>
-              integrating OCT, RNFL, HVF, and longitudinal patient data to support disease progression analysis.
+              Conducted a <strong>comparative analysis of current and upcoming DC-SCM
+              (Data Center Secure Control Module) specifications</strong>, researching
+              architectural changes and their impact on system-level control logic.
             </li>
 
             <li>
-              Built a high-performance <strong>React.js frontend</strong> for interactive visualization
-              and real-time medical workflow execution.
+              Researched <strong>hardware architecture and control flow</strong> to
+              understand how evolving specifications influence system design and
+              reliability in data center environments.
             </li>
 
             <li>
-              Developed backend microservices using <strong>Flask</strong>, including data ingestion,
-              aggregation APIs, analytics logic, and full longitudinal data pipelines.
+              Leveraged <strong>simulation tools</strong> to model and validate system
+              behaviors based on technical specifications, focusing on
+              <strong> power sequencing</strong> and the <strong>hardware–software interface</strong>.
             </li>
 
             <li>
-              Managed <strong>AWS deployment</strong> (EC2, S3, reverse proxy, SSL, environment configs),
-              integrated <strong>SAML authentication</strong>, and optimized system reliability.
-            </li>
-
-            <li>
-              Owned complete <strong>full-stack delivery</strong> — architecture, APIs, UI/UX,
-              DevOps, testing, optimization, deployment, and cross-team coordination.
+              Authored <strong>technical documentation and summaries</strong> explaining
+              simulation results, architectural insights, and system-level behavior.
             </li>
           </ul>
 
           <a
-            href="https://drive.google.com/file/d/11mUPLgVhDdv2Sd-PqYW-p7FCUB2H-wdY/view?usp=drive_link"
+            href="https://drive.google.com/file/d/189svAZP5BWOX34TFb-CJGswMnM0AgiY5/view?usp=sharing"
             className="experience-link"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Letter of Recommendation
+            Internship Certificate
           </a>
         </div>
 

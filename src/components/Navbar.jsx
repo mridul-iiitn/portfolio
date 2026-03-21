@@ -37,7 +37,7 @@ export default function NavBar() {
     <nav className="section-nav">
       <ul className="social-links">
         <li>
-          <a href="https://www.linkedin.com/in/ketanbajpai/">
+          <a href="https://www.linkedin.com/in/mridul-pandey-626719253/">
             <svg
               className="social-icon"
               xmlns="http://www.w3.org/2000/svg"
@@ -52,7 +52,7 @@ export default function NavBar() {
           </a>
         </li>
         <li>
-          <a href="https://github.com/ketaniiitn">
+          <a href="https://github.com/mridul-iiitn">
             <svg
               className="social-icon"
               xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@ export default function NavBar() {
         </li>
         <li>
           <a
-            href="https://leetcode.com/u/ketan_iiitn/"
+            href="https://leetcode.com/u/mridulpandey-0308/"
             target="_blank"
             rel="noopener noreferrer"
           >
